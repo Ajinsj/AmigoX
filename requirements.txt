@@ -15,3 +15,5 @@ django-import-export
 django-jazzmin
 django-tailwind
 django-allauth
+psycopg2==2.9.9
+pip==24.1.2
